@@ -1,7 +1,7 @@
 name: mikdenman_test
 favicon: null
-layout_spectrum: 0.5639511269982904
-typography_spectrum: 0.4160017173271626
+layout_spectrum: 1
+typography_spectrum: 0.48357
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.06372183188796043
+  brandColors:
+    - '#34beef'
+    - '#fddac4'
+    - '#cf7076'
+    - '#8f465a'
+    - '#3d1122'
+  brandStrength: 0
   lightness: 0.9267702831421047
-  saturation: 0.7041487316600978
+  saturation: 0.5
   rhythmicContrast: 0.4336437867023051
 purpose: []
